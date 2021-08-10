@@ -162,3 +162,6 @@ p {
 .footer-item {
     margin: 20px 10px;
 }
+.footer-item:hover{
+    color:#ff4c68;
+}
